@@ -6,8 +6,6 @@
 Our game draws inspiration from "Mario" and "Google Dinosaur." Using Unity, we feature the Google Dinosaur as the main character.
 The game begins with a Dormnet network disconnection. The player must collect clues to find the correct IP address and gather objects for each layer of the TCP/IP model, progressing through 5 levels to reconnect the network.  
 
-[Overview Video](https://drive.google.com/file/d/1VS9lwYDGj4GksnwKxEKPgaC81aujIFuZ/view?usp=sharing)
-
 ## Team Members
 - 劉靖媛 412410003(@jyliew1912): 遊戲畫面顯示(UI)、部分道具、場景控制、變數管理
 - 陳湘昀 412410013(@sony0505): 檔案儲存、鏡頭控制、地圖優化、主要道具、程式整合、debug
@@ -16,7 +14,7 @@ The game begins with a Dormnet network disconnection. The player must collect cl
 - 余沛穎 412410073(@YuPatty): 角色移動、分數、血量、音效、部分道具、繪圖、報告+README
 
 ## Project Description
-玩家(小恐龍)一開始有7條命，碰到怪獸減1條命，遇到乖乖增1條命;可上下左右移動  
+玩家(小恐龍)一開始有7條命，碰到怪獸減1條命，遇到乖乖增1條命；可上下左右移動  
 
 Character: Google Dinosaur  
 Lives: Starts with 7 lives  

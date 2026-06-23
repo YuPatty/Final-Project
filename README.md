@@ -7,11 +7,12 @@ Our game draws inspiration from "Mario" and "Google Dinosaur." Using Unity, we f
 The game begins with a Dormnet network disconnection. The player must collect clues to find the correct IP address and gather objects for each layer of the TCP/IP model, progressing through 5 levels to reconnect the network.  
 
 ## Team Members
-- 劉靖媛 412410003(@jyliew1912): 遊戲畫面顯示(UI)、部分道具、場景控制、變數管理
-- 陳湘昀 412410013(@sony0505): 檔案儲存、鏡頭控制、地圖優化、主要道具、程式整合、debug
-- 莊昀潔 412410020(@Jayechuang): terminal、暫停MENU、部分繪圖、主要道具、地圖優化、debug
+- 余沛穎 412410073(@YuPatty): 角色移動、分數、血量、音效、部分道具、繪圖、架構構想、進度管理、報告+README
 - 黃煜庭 412410051(@ccuhyt): 初始登入介面、地圖生成、部分繪圖、音效
-- 余沛穎 412410073(@YuPatty): 角色移動、分數、血量、音效、部分道具、繪圖、報告+README
+- 莊昀潔 412410020(@Jayechuang): terminal、暫停MENU、部分繪圖、道具生成、地圖優化
+- 陳湘昀 412410013(@sony0505): 檔案儲存、鏡頭控制、地圖優化、道具、專案整合
+- 劉靖媛 412410003(@jyliew1912): 遊戲畫面顯示(UI)、部分道具、場景控制、變數管理
+
 
 ## Project Description
 玩家(小恐龍)一開始有7條命，碰到怪獸減1條命，遇到乖乖增1條命；可上下左右移動  
